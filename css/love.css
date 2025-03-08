@@ -157,6 +157,13 @@ body {
     /* justify-self: flex-start; */
 }
 
+#pic{
+    height: 300px;
+    width: 200px;
+    background: url("../images/ankita.png");
+    background-size: cover; 
+}
+
 .footer {
     bottom: 112px;
     /* border-bottom: 9px solid #fff; */
